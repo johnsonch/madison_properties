@@ -13,6 +13,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'geocoder'
 gem 'money'
 gem 'figaro'
+gem 'will_paginate'
+gem 'rest-client'
 
 group :development, :test do
   gem 'byebug', platform: :mri
